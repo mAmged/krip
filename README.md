@@ -1,6 +1,8 @@
 # krip
 
 Dead simple encryption in both browser and node, using WebCrypto under the hood
+##TODO
+- FIX node version
 
 ## Table of contents
 
